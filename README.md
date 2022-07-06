@@ -44,7 +44,7 @@ spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.MySQL5InnoDBDiale
 spring.jpa.hibernate.ddl-auto= update
 
 # App Properties
-dakual.app.jwtSecret= dakualSecretKey
+dakual.app.jwtSecret= SecretKey
 dakual.app.jwtExpirationMs= 3600000
 dakual.app.jwtRefreshExpirationMs= 86400000
 ```
